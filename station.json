@@ -1,0 +1,17 @@
+{
+  "format": 2,
+  "id": "revolutions-test",
+  "name": "revolutions test",
+  "beschreibung": "",
+  "host": "ThomasTestDSBOARD",
+  "eingang": [],
+  "ausgabe": [],
+  "aktion": {
+    "art": "textfeld",
+    "wert": ""
+  },
+  "beispiele": [],
+  "reife": "entwurf",
+  "lizenz": "nicht angegeben",
+  "tags": []
+}
